@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ListaTarefas",
+            "request": "launch",
+            "mainClass": "Collection.ListaTarefas",
+            "projectName": "Trilha-Java-Basico_b289ea0"
+        },
+        {
+            "type": "java",
+            "name": "BancoApp",
+            "request": "launch",
+            "mainClass": "Modulo1.BancoApp",
+            "projectName": "Trilha-Java-Basico_b289ea0"
+        },
+        {
+            "type": "java",
+            "name": "BancoOrganizadorAtivos",
+            "request": "launch",
+            "mainClass": "Modulo1.BancoOrganizadorAtivos",
+            "projectName": "Trilha-Java-Basico_b289ea0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Trilha-Java-Basico_b289ea0"
+        },
+        {
+            "type": "java",
+            "name": "EquilibrandoSaldo",
+            "request": "launch",
+            "mainClass": "EquilibrandoSaldo",
+            "projectName": "Trilha-Java-Basico_b289ea0"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +51,12 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "Trilha-Java-Basico_b289ea0",
-            "args": ["Matheus", "Andrade", "28", "1.72"]
+            "args": [
+                "Matheus",
+                "Andrade",
+                "28",
+                "1.72"
+            ]
         }
     ]
 }
