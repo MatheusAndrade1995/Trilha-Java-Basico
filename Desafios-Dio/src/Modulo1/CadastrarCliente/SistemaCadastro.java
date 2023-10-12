@@ -5,7 +5,7 @@ public class SistemaCadastro {
 
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); 
 
         Pessoa Paulo = new Pessoa("Paulo Cesar", "45729681879");
 
